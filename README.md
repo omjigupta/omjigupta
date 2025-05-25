@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Om
 
-I'm a passionate **Full Stack Software Engineer** with a focus on scalable backend systems, intuitive frontend interfaces, and seamless integrations. Currently working as a **Founding Backend Engineer**, I enjoy designing resilient systems, writing clean code, and collaborating across the stack to deliver impactful products.
+I'm a passionate **Full Stack Software Engineer** with a focus on **scalable backend systems**, **intuitive frontend interfaces**, and **seamless integrations**. Currently working as a **Founding Backend Engineer**, I love designing resilient systems, writing clean, maintainable code, and collaborating across the stack to deliver impactful products.
 
 ---
 
 ## 🧠 About Me
 
-- 🛠️ Full-stack developer with experience in both frontend and backend development.
-- 💼 Currently building platforms that process high-volume data with integrations to third-party services.
+- 🛠️ Full-stack developer with experience in both **frontend** and **backend** development.
+- 🚀 Developed and deployed **multiple applications from scratch to production**, handling both infrastructure and code.
+- 💳 Integrated leading **payment gateways**: **PayU**, **Razorpay**, and **Cashfree**.
+- 💼 Worked extensively in **healthcare**, **travel**, and **AI engineering**, with deep understanding of **prompt engineering** for LLM-based apps.
 - 🌐 Comfortable across the stack: from REST/gRPC APIs and database design to modern frontend frameworks.
 - 🤝 Collaborate closely with cross-functional teams to build scalable, user-first features.
-- 📍 Based in Kanpur, India – open to remote collaboration opportunities.
+- 📍 Based in **Kanpur, India** – open to **remote collaboration** and **freelance projects**.
 
 ---
 
@@ -40,6 +42,15 @@ I'm a passionate **Full Stack Software Engineer** with a focus on scalable backe
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+### 💳 Payment Gateway Integration
+![PayU](https://img.shields.io/badge/-PayU-6A1B9A?style=flat&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat&logoColor=white)
+![Cashfree](https://img.shields.io/badge/-Cashfree-009670?style=flat&logoColor=white)
+
+### 🤖 AI & Prompt Engineering
+- Built applications leveraging **LLMs**, **prompt tuning**, and **AI-based pipelines**.
+- Integrated AI into production features including **real-time processing**, **recommendations**, and **chatbot experiences**.
+
 ### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -47,10 +58,22 @@ I'm a passionate **Full Stack Software Engineer** with a focus on scalable backe
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+---
+
+## 💼 Open for Freelance Work
+
+If you're looking for someone to:
+- Build a **full-stack application** from scratch to production  
+- Integrate **payment gateways** like PayU, Razorpay, Cashfree  
+- Design **high-throughput backends** and **interactive frontends**  
+- Work on **AI-driven features** or **prompt engineering**  
+- Help scale your **healthcare or travel tech product**  
+
+📩 **Reach out!** I’m open to freelance opportunities and remote collaboration.
 
 ---
 
-## 📫 Reach Out to Me
+## 📫 Let's Connect
 
 - 📧 Email: [this.is.omji@gmail.com](mailto:this.is.omji@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/omjigupta](https://linkedin.com/in/omjigupta)
